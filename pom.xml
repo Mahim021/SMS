@@ -82,14 +82,12 @@
 			<scope>runtime</scope>
 		</dependency>
 		
-		<!-- PostgreSQL - commented out, switch back when you have PostgreSQL configured -->
-		<!--
+		<!-- PostgreSQL Driver -->
 		<dependency>
 			<groupId>org.postgresql</groupId>
 			<artifactId>postgresql</artifactId>
 			<scope>runtime</scope>
 		</dependency>
-		-->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
